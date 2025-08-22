@@ -1,32 +1,11 @@
-<<<<<<< HEAD
 {
-    "name": "Template 404",
-    "sections": {
-        "template": {
-            "type": "template-404"
-        }
-    },
-    "order": ["template"]
-}
-=======
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
-{
+  "name": "Template 404",
   "sections": {
     "template": {
-      "type": "template-404",
-      "settings": {}
+      "type": "template-404"
     }
   },
   "order": [
     "template"
   ]
 }
->>>>>>> d4ce9606cca987498ddf30caf71d86d149f7e845
